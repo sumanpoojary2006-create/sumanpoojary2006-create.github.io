@@ -4,7 +4,7 @@ A responsive, static portfolio featuring five selected projects. Built with plai
 
 ## Publish
 
-The `Deploy to GitHub Pages` workflow publishes the site whenever changes are pushed to `main`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
+GitHub Pages serves the root of the `main` branch. Push updates to `main` to publish them; no build step is needed.
 
 ## Edit
 
